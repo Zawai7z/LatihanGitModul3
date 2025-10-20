@@ -9,3 +9,10 @@ Program sederhana untuk menampilkan pesan "Hello Modul 3!" ke layar.
 1. Pastikan sudah terinstal Java 17 ke atas.
 2. Jalankan file `Main.java` melalui IDE (IntelliJ IDEA atau VS Code).
 3. Output:
+
+## Kontributor
+- Nama: [Isi namamu]
+- NIM: [Isi NIM kamu]
+
+## Lisensi
+Proyek ini dibuat untuk keperluan praktikum Pemrograman Lanjut.
