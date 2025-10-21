@@ -11,8 +11,8 @@ Program sederhana untuk menampilkan pesan "Hello Modul 3!" ke layar.
 3. Output:
 
 ## Kontributor
-- Nama: [Isi namamu]
-- NIM: [Isi NIM kamu]
+- Nama: [Zaidaan Diandra Eka Putra]
+- NIM: [202410370110420]
 
 ## Lisensi
 Proyek ini dibuat untuk keperluan praktikum Pemrograman Lanjut.
